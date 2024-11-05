@@ -18,7 +18,7 @@ The dataset  includes the following key columns:
 7. UnitPrice:The cost of a product.
 
 ## Data Source
-This dataset that was freely provided by the facilitator.
+This dataset that was freely provided by the facilitator. 
 
 ## Time Period
 The dataset spans from 2023-2024
