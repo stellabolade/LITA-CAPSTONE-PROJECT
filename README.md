@@ -136,6 +136,87 @@ Having SUM (Quantity)= 0
 ```
 ![Screenshot 2024-11-05 200456](https://github.com/user-attachments/assets/f336dc18-bff6-4519-98c8-2aed10e4ac23)
 
+## Visualization with Power BI
+
+### Dashboard Overview
+
+![Sales visual](https://github.com/user-attachments/assets/9c260f67-d3d2-4de7-babc-a854630d304d)
+
+### Visuals and inference
+
+### Total sales by product
+
+![Total sales by product](https://github.com/user-attachments/assets/1a2ca644-8c1b-4ce4-92a9-262fd00d842d)
+
+- Shoes are the highest selling product with total sales of $613K, indicating they are the most popular and possibly the most profitable product.
+
+- Shirts are the second highest selling product with sales of $486K, also indicating strong sales performance.
+
+- Hats and Gloves have moderate sales, with $316K and $297K respectively, suggesting a steady demand.
+
+- Jackets have lower sales at $208K, which might indicate a more niche market or seasonal demand.
+
+- Socks have the least sales at $181K, making them the least popular product among the six.
+
+### Total sales by region
+
+![Total sales by region](https://github.com/user-attachments/assets/f6e57e12-0202-40df-a0b4-74e044e0a131)
+
+- The South region has the highest total sales, amounting to $928K. This indicates a strong market presence or a larger customer base in the South.
+
+- The East region follows, with total sales of $486K, suggesting moderate market performance.
+
+- The North region has total sales of $387K, showing it has a smaller market share compared to the South and East.
+
+- The West region has the lowest total sales at $300K, indicating the smallest market size or presence among the four regions.
+
+### Quantity sold by product
+
+![Quantity sold by product](https://github.com/user-attachments/assets/6d734c3b-d977-40b1-a5fa-6c49075a5475)
+
+- The highest selling product is Hat with 16k units sold; this is followed by Shoes with 14k units sold.
+
+- Shirts and Gloves each have 12K units sold, suggesting a similar level of demand for these products.
+
+- Socks have a lower quantity sold at 8K, indicating they are less popular compared to Hats, Shoes, Shirts, and Gloves.
+
+- Jackets have the lowest quantity sold at 5K, making them the least popular item among the six products.
+
+### Quantity sold by region
+
+![Quantity by region](https://github.com/user-attachments/assets/2f3d3739-e78f-4827-a604-ef8ce28ecac9)
+
+The chart reveals that the South region has the highest quantity sold at 24K, indicating it is the most significant market or has the highest demand for the products. The East region follows with 20K units sold, showing a strong market presence but less than the South. The North region has a total of 12K units sold, suggesting moderate demand compared to the South and East, while the West region has the lowest quantity sold at 11K, indicating it is the smallest market or has the lowest demand for the products.
+
+### Total sales by year and month
+### 2023
+![Total sales by year and month](https://github.com/user-attachments/assets/fac6602f-1f17-490a-903a-79c389bf5263)
+### 2024
+![year 2024](https://github.com/user-attachments/assets/eb8e7724-e0a8-468d-8231-bcf04f9af829)
 
 
+January 2023 starts with moderate sales, while February 2023 shows a significant peak with the highest sales exceeding $600K.
 
+March 2023 experiences a sharp drop to about $248K, followed by a further decrease in April 2023 to $7K, the lowest sales month.
+
+Sales gradually recover in May 2023 ($60K) and June 2023 ($99K), with a noticeable spike in July 2023 ($238K) and October 2023 ($134K).
+
+A decline in November 2023 ($104K) and December 2023 ($49K) suggests lower end-of-year activity.
+
+Sales increase again in January 2024 to $198K, followed by a sharp decline in February 2024 ($29K), then moderate recovery through March 2024 ($95K) and April 2024 ($39K).
+
+The second half of 2024 shows significant sales improvement, with peaks in June 2024 ($148K), July 2024 ($137K), and August 2024 ($174K), indicating stronger sales performance compared to the same months in the previous year.
+
+### Quantity sold by year and month
+![Quantity by month and year](https://github.com/user-attachments/assets/ce15dd5e-a9e4-4c80-a4e6-40d5718416a0)
+
+In 2023, there were significant peaks in sales quantities in February and July, with quantities sold reaching 5.0K and 5.9K, respectively. These peaks suggest strong market demand during these months, possibly due to seasonal factors or promotional events. However, sales dipped sharply in April and May, with quantities dropping to 1.5K and 1.0K, indicating a period of low demand.
+
+For 2024, the sales quantities exhibit a fluctuating pattern. January 2024 started strong with 4.0K units sold, and the highest quantity sold in February and March at 5.5K each, indicating continued strong demand in the early part of the year. However, sales dropped significantly in April and May, similar to the previous year, with quantities at 2.0K and 1.5K. Sales then picked up again in June with 3.9K units and fluctuated for the rest of the year.
+
+### Recommendations
+
+For high performing products like Shoes and Shirts, Increase marketing efforts to maintain and boost sales. Expansion and introduction of new designs should be considered.
+For low performing products, Campaigns and promotions should be intensiified. Discounts or bundles can be offered, to attract customers.
+Regions with high revenue should maintain and strengthen the market presence with targeted marketing campaigns, ensuring sufficient inventory to meet high demand; while others should engage in localized promotions to boost sales.
+The store should utilize peak Months and Plan major marketing campaigns maximize sales, launch new products or limited-time offers during these periods; while low performing months should intensify promotion, implement clearance sales.
