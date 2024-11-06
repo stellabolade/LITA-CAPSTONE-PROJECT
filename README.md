@@ -35,10 +35,10 @@ Data cleaning: Removal of duplicates, ensuring data consistency by changing data
 Data Analysis: The data was analyzed using Microsoft Excel, utilizing Pivot Tables to organize, summarize, and filter the data for easier interpretation.
 Data Visualization: Utilizing Power BI, Different visualizations were created represent the key insights.
 
-# ANALYSIS, VISUALIZATION, AND INFERENCE
+## ANALYSIS, VISUALIZATION, AND INFERENCE
 
-##  Use pivot tables to summarize total sales by product, region, and month, and use Excel formulas to calculate metrics such as average sales per product and 
-total revenue by region. 
+##  Excel Analysis
+
 
 ### 1. Total sales per product
 ![Total sales by product](https://github.com/user-attachments/assets/68824dfc-15ee-4bea-9478-750395d15a58)
