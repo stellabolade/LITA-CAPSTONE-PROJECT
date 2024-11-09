@@ -140,7 +140,7 @@ Having SUM (Quantity)= 0
 
 ### Dashboard Overview
 
-![Sales visual](https://github.com/user-attachments/assets/9c260f67-d3d2-4de7-babc-a854630d304d)
+![Screenshot 2024-11-09 091655](https://github.com/user-attachments/assets/c6ad1289-0026-4245-bb59-fb0634ba1182)
 
 ### Visuals and inference
 
@@ -189,34 +189,36 @@ Having SUM (Quantity)= 0
 The chart reveals that the South region has the highest quantity sold at 24K, indicating it is the most significant market or has the highest demand for the products. The East region follows with 20K units sold, showing a strong market presence but less than the South. The North region has a total of 12K units sold, suggesting moderate demand compared to the South and East, while the West region has the lowest quantity sold at 11K, indicating it is the smallest market or has the lowest demand for the products.
 
 ### Total sales by year and month
+
 ### 2023
 ![Total sales by year and month](https://github.com/user-attachments/assets/fac6602f-1f17-490a-903a-79c389bf5263)
+
 ### 2024
 ![year 2024](https://github.com/user-attachments/assets/eb8e7724-e0a8-468d-8231-bcf04f9af829)
 
+- January 2023 starts with moderate sales, while February 2023 shows a significant peak with the highest sales exceeding $600K.
 
-January 2023 starts with moderate sales, while February 2023 shows a significant peak with the highest sales exceeding $600K.
+- March 2023 experiences a sharp drop to about $248K, followed by a further decrease in April 2023 to $7K, the lowest sales month.
 
-March 2023 experiences a sharp drop to about $248K, followed by a further decrease in April 2023 to $7K, the lowest sales month.
+- Sales gradually recover in May 2023 ($60K) and June 2023 ($99K), with a noticeable spike in July 2023 ($238K) and October 2023 ($134K).
 
-Sales gradually recover in May 2023 ($60K) and June 2023 ($99K), with a noticeable spike in July 2023 ($238K) and October 2023 ($134K).
+- A decline in November 2023 ($104K) and December 2023 ($49K) suggests lower end-of-year activity.
 
-A decline in November 2023 ($104K) and December 2023 ($49K) suggests lower end-of-year activity.
+- Sales increase again in January 2024 to $198K, followed by a sharp decline in February 2024 ($29K), then moderate recovery through March 2024 ($95K) and April 2024 ($39K).
 
-Sales increase again in January 2024 to $198K, followed by a sharp decline in February 2024 ($29K), then moderate recovery through March 2024 ($95K) and April 2024 ($39K).
-
-The second half of 2024 shows significant sales improvement, with peaks in June 2024 ($148K), July 2024 ($137K), and August 2024 ($174K), indicating stronger sales performance compared to the same months in the previous year.
+- The second half of 2024 shows significant sales improvement, with peaks in June 2024 ($148K), July 2024 ($137K), and August 2024 ($174K), indicating stronger sales performance compared to the same months in the previous year.
 
 ### Quantity sold by year and month
+
 ![Quantity by month and year](https://github.com/user-attachments/assets/ce15dd5e-a9e4-4c80-a4e6-40d5718416a0)
 
-In 2023, there were significant peaks in sales quantities in February and July, with quantities sold reaching 5.0K and 5.9K, respectively. These peaks suggest strong market demand during these months, possibly due to seasonal factors or promotional events. However, sales dipped sharply in April and May, with quantities dropping to 1.5K and 1.0K, indicating a period of low demand.
+- In 2023, there were significant peaks in sales quantities in February and July, with quantities sold reaching 5.0K and 5.9K, respectively. These peaks suggest strong market demand during these months, possibly due to seasonal factors or promotional events. However, sales dipped sharply in April and May, with quantities dropping to 1.5K and 1.0K, indicating a period of low demand.
 
-For 2024, the sales quantities exhibit a fluctuating pattern. January 2024 started strong with 4.0K units sold, and the highest quantity sold in February and March at 5.5K each, indicating continued strong demand in the early part of the year. However, sales dropped significantly in April and May, similar to the previous year, with quantities at 2.0K and 1.5K. Sales then picked up again in June with 3.9K units and fluctuated for the rest of the year.
+- For 2024, the sales quantities exhibit a fluctuating pattern. January 2024 started strong with 4.0K units sold, and the highest quantity sold in February and March at 5.5K each, indicating continued strong demand in the early part of the year. However, sales dropped significantly in April and May, similar to the previous year, with quantities at 2.0K and 1.5K. Sales then picked up again in June with 3.9K units and fluctuated for the rest of the year.
 
 ### Recommendations
 
-For high performing products like Shoes and Shirts, Increase marketing efforts to maintain and boost sales. Expansion and introduction of new designs should be considered.
-For low performing products, Campaigns and promotions should be intensiified. Discounts or bundles can be offered, to attract customers.
-Regions with high revenue should maintain and strengthen the market presence with targeted marketing campaigns, ensuring sufficient inventory to meet high demand; while others should engage in localized promotions to boost sales.
-The store should utilize peak Months and Plan major marketing campaigns maximize sales, launch new products or limited-time offers during these periods; while low performing months should intensify promotion, implement clearance sales.
+- For high performing products like Shoes and Shirts, Increase marketing efforts to maintain and boost sales. Expansion and introduction of new designs should be considered.
+- For low performing products, Campaigns and promotions should be intensiified. Discounts or bundles can be offered, to attract customers.
+- Regions with high revenue should maintain and strengthen the market presence with targeted marketing campaigns, ensuring sufficient inventory to meet high demand; while others should engage in localized promotions to boost sales.
+- The store should utilize peak Months and Plan major marketing campaigns maximize sales, launch new products or limited-time offers during these periods; while low performing months should intensify promotion, implement clearance sales.
